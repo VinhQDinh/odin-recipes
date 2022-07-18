@@ -1,0 +1,16 @@
+body {
+    background-color: #000;
+    color: white;
+    font-size: 21px;
+
+}
+
+p {
+    color: orange;
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 70px;
+    color: pink;
+}
